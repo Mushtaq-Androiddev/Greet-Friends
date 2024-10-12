@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greet Friends</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="create_greeting_card">Create Greeting Card</string>
+</resources>
